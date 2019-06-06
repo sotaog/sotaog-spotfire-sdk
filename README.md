@@ -15,8 +15,11 @@ By default the script will pull all datapoints starting from Jan 1 2017.
 You can change this by modifying the script parameter `defaultStartTimestamp`.
 
 1. Edit the Text Area
+
 ![Step 1](images/step1.jpg)
 2. Edit the button control
+
 ![Step 2](images/step2.jpg)
 3. Click on Scripts and choose the `sotaog` python script to see the script parameters for configuration
+
 ![Step 3](images/step3.jpg)
